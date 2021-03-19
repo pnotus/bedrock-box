@@ -17,3 +17,4 @@ winget install VideoLAN.VLC
 winget install Valve.Steam
 winget install GOG.Galaxy
 winget install WhatsApp.WhatsApp
+winget install Discord.Discord
