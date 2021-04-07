@@ -16,4 +16,6 @@ winget install Microsoft.VisualStudioCode-User-x64
 winget install VideoLAN.VLC
 winget install Valve.Steam
 winget install GOG.Galaxy
+winget install WhatsApp.WhatsApp
+winget install Discord.Discord
 winget install Microsoft.dotnet
