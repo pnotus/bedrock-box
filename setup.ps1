@@ -11,7 +11,6 @@ winget install ElectronicArts.Origin
 winget install Git.Git
 winget install Inkscape.Inkscape
 winget install KDE.KDiff3
-winget install Microsoft.VisualStudioCode-User-x64
 winget install VideoLAN.VLC
 winget install Valve.Steam
 winget install GOG.Galaxy
