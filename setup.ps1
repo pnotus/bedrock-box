@@ -6,7 +6,6 @@ winget install Microsoft.WindowsTerminal --source msstore
 winget install Microsoft.PowerShell
 winget install Mozilla.Firefox
 winget install 7zip.7zip
-winget install Anaconda.Anaconda3
 winget install Audacity.Audacity
 winget install ElectronicArts.Origin
 winget install Git.Git
@@ -19,3 +18,4 @@ winget install GOG.Galaxy
 winget install WhatsApp.WhatsApp
 winget install Discord.Discord
 winget install Microsoft.dotnet
+winget install Python.Python.3
