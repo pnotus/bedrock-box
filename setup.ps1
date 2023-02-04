@@ -21,3 +21,4 @@ winget install Python.Python.3
 winget install Microsoft.VisualStudioCode
 winget install Microsoft.AzureCLI
 winget install Microsoft.Azd
+winget dotPDNLLC.paintdotnet
